@@ -1,0 +1,5 @@
+[
+ {"number":"01","title":"Temple pilgrimages","text":"Thoughtfully paced visits to India's revered shrines, with time for darshan and reflection.","image":"https://commons.wikimedia.org/wiki/Special:FilePath/Venkateshwara_Tirupati_Temple.jpg?width=1000","icon":"lotus","credit":"tirupati"},
+ {"number":"02","title":"Sacred river rituals","text":"Witness sunrise prayers and age-old ceremonies along Varanasi's holy Ganga.","image":"https://commons.wikimedia.org/wiki/Special:FilePath/Dashashwamedh_Ghat,_Ganga.jpg?width=1000","icon":"water","credit":"varanasi"},
+ {"number":"03","title":"Quiet spiritual retreats","text":"Make room to pause and reconnect in the peaceful Himalayan setting of Kedarnath.","image":"https://commons.wikimedia.org/wiki/Special:FilePath/The_spiritual_radiance_of_Kedarnath_Temple_at_sunrise.jpg?width=1000","icon":"sun","credit":"kedarnath"}
+]
